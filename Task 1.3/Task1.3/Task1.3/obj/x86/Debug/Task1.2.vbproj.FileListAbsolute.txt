@@ -1,0 +1,8 @@
+C:\HamzaPROJECTS\Task 1.2\Task1.2\Task1.2\bin\Debug\Task1.2.exe
+C:\HamzaPROJECTS\Task 1.2\Task1.2\Task1.2\bin\Debug\Task1.2.pdb
+C:\HamzaPROJECTS\Task 1.2\Task1.2\Task1.2\bin\Debug\Task1.2.xml
+C:\HamzaPROJECTS\Task 1.2\Task1.2\Task1.2\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\HamzaPROJECTS\Task 1.2\Task1.2\Task1.2\obj\x86\Debug\Task1.2.vbproj.GenerateResource.Cache
+C:\HamzaPROJECTS\Task 1.2\Task1.2\Task1.2\obj\x86\Debug\Task1.2.exe
+C:\HamzaPROJECTS\Task 1.2\Task1.2\Task1.2\obj\x86\Debug\Task1.2.xml
+C:\HamzaPROJECTS\Task 1.2\Task1.2\Task1.2\obj\x86\Debug\Task1.2.pdb
