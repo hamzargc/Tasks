@@ -1,0 +1,24 @@
+C:\Users\User\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache
+C:\Users\User\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\User\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\User\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+C:\Users\User\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\User\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.xml
+C:\Users\User\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\HamzaPROJECTS\1.2\1.2\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\HamzaPROJECTS\1.2\1.2\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.xml
+C:\HamzaPROJECTS\1.2\1.2\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\HamzaPROJECTS\1.2\1.2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\HamzaPROJECTS\1.2\1.2\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\HamzaPROJECTS\1.2\1.2\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+C:\HamzaPROJECTS\1.2\1.2\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\HamzaPROJECTS\1.2\1.2\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache
+C:\HamzaPROJECTS\Task 1.2\1.2\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\HamzaPROJECTS\Task 1.2\1.2\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.xml
+C:\HamzaPROJECTS\Task 1.2\1.2\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\HamzaPROJECTS\Task 1.2\1.2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\HamzaPROJECTS\Task 1.2\1.2\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\HamzaPROJECTS\Task 1.2\1.2\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+C:\HamzaPROJECTS\Task 1.2\1.2\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\HamzaPROJECTS\Task 1.2\1.2\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache
