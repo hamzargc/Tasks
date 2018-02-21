@@ -13,10 +13,11 @@
             Input(1, MemberID)
             Input(1, Name)
 
-
             If Name = searchN Then
                 Console.WriteLine("Member ID. :" & MemberID)
                 Console.WriteLine("Member name :" & Name)
+            Else
+                Console.WriteLine("GADHA SAHI NAAM DAL, kyunka yaha main pighl gaya")
             End If
         End While
         FileClose(1)
